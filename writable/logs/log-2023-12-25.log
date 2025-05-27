@@ -1,0 +1,838 @@
+INFO - 2023-12-25 02:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 02:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 02:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 02:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 02:46:08 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 52.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 02:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 02:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 02:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 02:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 02:46:30 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 52.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 02:48:04 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 52.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 02:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 02:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 02:50:05 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 52.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 02:53:26 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 53.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 03:00:07 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 53.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 03:15:17 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 53.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 03:17:10 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 53.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 03:17:38 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 53.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 03:17:39 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 53.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 03:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 03:18:07 --> "required " is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('kode_prodi', 'Kode Program Studi', '', [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Prodi.php(42): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 03:18:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 03:18:39 --> "required " is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('kode_prodi', 'Kode Program Studi', '', [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Prodi.php(42): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 03:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 03:27:43 --> syntax error, unexpected single-quoted string "required", expecting "]"
+in APPPATH\Controllers\Prodi.php on line 53.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 03:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 03:29:40 --> "required " is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('kode_prodi', 'Kode Program Studi', '', [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Prodi.php(42): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 03:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 03:32:21 --> "required " is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 319.
+ 1 SYSTEMPATH\Validation\Validation.php(319): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(197): CodeIgniter\Validation\Validation->processRules('kode_prodi', 'Kode Program Studi', '', [...], [...])
+ 3 SYSTEMPATH\Controller.php(152): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Prodi.php(42): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 03:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 03:41:01 --> Undefined variable $gedung
+in APPPATH\Views\admin\prodi\v_add.php on line 41.
+ 1 APPPATH\Views\admin\prodi\v_add.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $gedung', 'C:\\xampp\\htdocs\\siakad-kampus\\app\\Views\\admin\\prodi\\v_add.php', 41)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\siakad-kampus\\app\\Views\\admin\\prodi\\v_add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('admin/prodi/v_add', [], true)
+ 5 APPPATH\Views\layout\v_content.php(3): view('admin/prodi/v_add')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\siakad-kampus\\app\\Views\\layout\\v_content.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/v_content', [], true)
+ 9 APPPATH\Views\layout\v_wrapper.php(6): view('layout/v_content')
+10 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\siakad-kampus\\app\\Views\\layout\\v_wrapper.php')
+11 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/v_wrapper', [], true)
+13 APPPATH\Controllers\Prodi.php(34): view('layout/v_wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->add()
+15 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+16 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 03:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 03:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:01:42 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:01:52 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:10:33 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:13:59 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:21:13 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:21:19 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:21:33 --> syntax error, unexpected token ";"
+in APPPATH\Controllers\Prodi.php on line 68.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('prodi/add', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('prodi/add')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('prodi/add')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:22:35 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:31:28 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:31:45 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-25 04:33:18 --> Undefined variable $haystack
+in APPPATH\Config\Routes.php on line 9.
+ 1 APPPATH\Config\Routes.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $haystack', 'C:\\xampp\\htdocs\\siakad-kampus\\app\\Config\\Routes.php', 9)
+ 2 SYSTEMPATH\Router\RouteCollection.php(344): require('C:\\xampp\\htdocs\\siakad-kampus\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(810): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:33:36 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:35:16 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:36:07 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:38:07 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:38:19 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:38:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:38:31 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:39:58 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:43:40 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:48:25 --> Undefined variable $haystack
+in SYSTEMPATH\Validation\Validation.php on line 937.
+ 1 SYSTEMPATH\Validation\Validation.php(937): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $haystack', 'C:\\xampp\\htdocs\\siakad-kampus\\system\\Validation\\Validation.php', 937)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:48:37 --> Undefined variable $haystack
+in SYSTEMPATH\Validation\Validation.php on line 937.
+ 1 SYSTEMPATH\Validation\Validation.php(937): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $haystack', 'C:\\xampp\\htdocs\\siakad-kampus\\system\\Validation\\Validation.php', 937)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:48:48 --> Undefined variable $haystack
+in SYSTEMPATH\Validation\Validation.php on line 937.
+ 1 SYSTEMPATH\Validation\Validation.php(937): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $haystack', 'C:\\xampp\\htdocs\\siakad-kampus\\system\\Validation\\Validation.php', 937)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:50:57 --> Maximum execution time of 120 seconds exceeded
+in SYSTEMPATH\Validation\Validation.php on line 930.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-12-25 04:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:51:10 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:53:19 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:53:31 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:53:58 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:54:23 --> REDIRECTED ROUTE at https://localhost/siakad-kampus/public/siakad-kampus/public/index.php/prodi/add
+INFO - 2023-12-25 04:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:54:49 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:55:22 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:56:09 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:56:24 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:57:08 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:57:27 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:57:42 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:57:59 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:59:06 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:59:19 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:59:33 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 04:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 04:59:48 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 04:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:00:45 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:02:19 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:02:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:02:34 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:03:14 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:03:32 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:04:16 --> Undefined variable $isi
+in APPPATH\Views\layout\v_content.php on line 2.
+ 1 APPPATH\Views\layout\v_content.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isi', 'C:\\xampp\\htdocs\\siakad-kampus\\app\\Views\\layout\\v_content.php', 2)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\siakad-kampus\\app\\Views\\layout\\v_content.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/v_content', [], false)
+ 5 APPPATH\Views\layout\v_wrapper.php(6): view('layout/v_content')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\siakad-kampus\\app\\Views\\layout\\v_wrapper.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/v_wrapper', [], false)
+ 9 APPPATH\Controllers\Prodi.php(34): view('layout/v_wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->add()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:04:25 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-25 05:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-25 05:04:42 --> strpos(): Argument #3 ($offset) must be contained in argument #1 ($haystack)
+in SYSTEMPATH\Validation\Validation.php on line 935.
+ 1 SYSTEMPATH\Validation\Validation.php(935): strpos('required|is_unique[tbl_prodi.kode_prodi', '|', 40)
+ 2 SYSTEMPATH\Validation\Validation.php(574): CodeIgniter\Validation\Validation->splitRules([...])
+ 3 SYSTEMPATH\Controller.php(196): CodeIgniter\Validation\Validation->setRules([...], [])
+ 4 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator([...], [])
+ 5 APPPATH\Controllers\Prodi.php(41): CodeIgniter\Controller->validate([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Prodi->insert()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Prodi))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-25 05:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
